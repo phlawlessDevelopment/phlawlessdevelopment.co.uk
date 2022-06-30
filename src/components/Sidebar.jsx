@@ -9,7 +9,7 @@ class SideBar extends Component {
         <div className="overflow-y-auto py-4 px-3 rounded-lg">
           <ul className="space-y-2">
           <li>
-            <img src={'80x80_black.png'}></img>
+            <img src={'80x80_black.png'} alt="phlawless development logo"></img>
           </li>
             <li className="rounded-lg shadow-lg hover:bg-black">
               <Link
