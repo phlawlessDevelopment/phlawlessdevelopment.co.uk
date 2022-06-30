@@ -16,7 +16,7 @@ class Services extends Component {
               <img
                 className="-rotate-6 object-contain"
                 src={"stock/stock_python_1.jpg"}
-                alt="web development stock photo"
+                alt="python logo"
               ></img>
             </div>
            
@@ -137,7 +137,7 @@ class Services extends Component {
               <img
                 className="-rotate-6 object-contain"
                 src={"stock/stock_python_2.jpg"}
-                alt="web development stock photo"
+                alt="python coding book"
               ></img>
             </div>
             </div>

@@ -14,7 +14,7 @@ class Home extends Component {
                 If you’re looking to start your own small business website, you’ve come to the right place. I will create a site that is tailored to your needs and drives your business forward.
                 </h1>
     <div className='w-2/3 h-auto rotate-6 bg-white' >
-    <img className='-rotate-6 object-contain' src={'stock/stock_6.jpg'} alt="web development stock photo"></img>
+    <img className='-rotate-6 object-contain' src={'stock/stock_6.jpg'} alt="cup of coffee and laptop"></img>
     </div>
     </div>
     <div className='flex flex-col gap-6 justify-center items-center'>
@@ -23,7 +23,7 @@ class Home extends Component {
         </h1>
     <div className='flex flex-row justify-center items-center gap-6 w-2/3'>
     <div className='w-2/3 h-auto rotate-6 bg-white' >
-    <img className='-rotate-6 object-contain' src={'stock/stock_1.jpg'} alt="web development stock photo"></img>
+    <img className='-rotate-6 object-contain' src={'stock/stock_1.jpg'} alt="laptop and chart"></img>
     </div>
             <h1 className="text-md">
                
@@ -44,7 +44,7 @@ class Home extends Component {
 
     </h1>
     <div className='w-2/3 h-auto rotate-6 bg-white' >
-    <img className='-rotate-6 object-contain' src={'stock/stock_5.jpg'} alt="web development stock photo"></img>
+    <img className='-rotate-6 object-contain' src={'stock/stock_5.jpg'} alt="someone coding"></img>
     </div>
     </div>
     </div>
