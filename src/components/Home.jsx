@@ -11,7 +11,8 @@ class Home extends Component {
             <h1 className="text-md">
                 Edinburgh based freelance web development company, offering  small business website
                 creation and fullstack webapps in Python and NodeJS.
-                If you’re looking to start your own small business website, you’ve come to the right place. I will create a site that is tailored to your needs and drives your business forward.
+                If you’re looking to start your own small business website, you’ve come to the right place.
+                I will create a site that is tailored to your needs and drives your business forward.
                 </h1>
     <div className='w-2/3 h-auto rotate-6 bg-white' >
     <img className='-rotate-6 object-contain' src={'stock/stock_6.jpg'} alt="cup of coffee and laptop"></img>
